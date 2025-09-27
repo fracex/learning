@@ -2,7 +2,7 @@
 #include <string>
 int main()
 {
-    std::string e;
-    std::cin>>e;
-    std::cout<<e<<std::endl;
+    std::string a;
+    std::cin>>a;
+    std::cout<<a<<std::endl;
 }
